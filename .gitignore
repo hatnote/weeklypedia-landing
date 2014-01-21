@@ -1,0 +1,15 @@
+*.py[co]
+*.sublime-project
+*.sublime-workspace
+*.egg-info
+dist/*
+
+.DS_Store
+.*.swp
+*~
+._*
+.\#*
+\#*\#
+log*
+build/*
+*.swp
